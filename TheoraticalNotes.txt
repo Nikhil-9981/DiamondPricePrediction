@@ -1,0 +1,2 @@
+1. Setup.py -->
+it creates whole project as package which can easily distributed externally like in
