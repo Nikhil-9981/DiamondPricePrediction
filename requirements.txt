@@ -1,0 +1,5 @@
+pandas
+numpy 
+seaborn 
+flask
+-e . # when we will run 'pip install -r requirements.txt ', it will automatically run setup.py 
