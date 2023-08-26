@@ -6,7 +6,7 @@ def error_message_detail(error , error_detail:sys):
      # division by zero division by zero <traceback object at 0x000001D2D5AAA7C0>
     file_name = exc_tb.tb_frame.f_code.co_filename
     # [c:\Users\NIKHIL SINGH\Documents\Projects\Diamond_price_prediction\src\exception.py]
-    print(exc_tb.tb_lineno)
+    
     error_message = "Error occured in python script name [{0}] line numer [{1}] error message [{2}]".format(
     file_name,exc_tb.tb_lineno,str(error)
 

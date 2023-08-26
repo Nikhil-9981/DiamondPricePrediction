@@ -2,4 +2,4 @@
 2. cls --> use for clear the terminal 
 3. conda activate venv/
 4. pip install -r requirement.txt
-5, python  setup.py install                          # it will install setup.py
+5. python  setup.py install                          # it will install setup.py
